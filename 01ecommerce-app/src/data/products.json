@@ -1,50 +1,50 @@
 [
     {
       "id": 1,
-      "name": "Product 1",
-      "image": "/images/product1.jpg",
+      "name": "Smart watch",
+      "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cHJvZHVjdHxlbnwwfHwwfHx8MA%3D%3D",
       "price": 100,
       "description": "This is a product description"
     },
     {
       "id": 2,
-      "name": "Product 2",
-      "image": "/images/product2.jpg",
+      "name": "Digital watch",
+      "image": "https://images.pexels.com/photos/3829441/pexels-photo-3829441.jpeg?auto=compress&cs=tinysrgb&w=600",
       "price": 150,
       "description": "This is another product description"
     },
     {
         "id": 3,
-        "name": "Product 3",
-        "image": "/images/product3.jpg",
+        "name": "Batman toy",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUHO_QiJBgnWRXrPsTvwSSAOAsPA8-kipOhw&s",
         "price": 100,
         "description": "This is a product description"
     },
     {
         "id": 4,
-        "name": "Product 4",
-        "image": "/images/product4.jpg",
+        "name": "Ambrance watch ",
+        "image": "https://suprememobiles.in/cdn/shop/products/Samsung-Watch-5-LTE-Now-Available.jpg?v=1702107237",
         "price": 100,
         "description": "This is a product description"
     },
     {
         "id": 5,
-        "name": "Product 5",
-        "image": "/images/product5.jpg",
+        "name": "Mens wear",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8v9FyzQcZdgVlpWlgj2VNPdwmiodEBQ7oyg&s",
         "price": 100,
         "description": "This is a product description"
     },
     {
         "id": 6,
-        "name": "Product 6",
-        "image": "/images/product6.jpg",
+        "name": "Sofa",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRQYzOi8CZx_PNcYlFHwl6GvCR5xQiEGUPDg&s",
         "price": 100,
         "description": "This is a product description"
     },
     {
         "id": 7,
-        "name": "Product 7",
-        "image": "/images/product7.jpg",
+        "name": "Smart phone",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYJv8RTsKmw9nmFVU9qwFHavX7VaxKJm11Wg&s",
         "price": 100,
         "description": "This is a product description"
     }
