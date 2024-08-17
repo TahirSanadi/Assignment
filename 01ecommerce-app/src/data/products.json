@@ -4,49 +4,49 @@
       "name": "Smart watch",
       "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cHJvZHVjdHxlbnwwfHwwfHx8MA%3D%3D",
       "price": 100,
-      "description": "This is a product description"
+      "description": "A smartwatch is a wearable device that combines the functionality of a traditional watch with advanced features like fitness tracking, notifications, heart rate monitoring, GPS, and app integration."
     },
     {
       "id": 2,
-      "name": "Digital watch",
+      "name": "Analog watch",
       "image": "https://images.pexels.com/photos/3829441/pexels-photo-3829441.jpeg?auto=compress&cs=tinysrgb&w=600",
       "price": 150,
-      "description": "This is another product description"
+      "description": "An analog watch is a timepiece that displays the time through a traditional clock face with hour, minute, and sometimes second hands. The watch typically has a round or rectangular face, with numbers or markers indicating the hours."
     },
     {
         "id": 3,
         "name": "Batman toy",
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUHO_QiJBgnWRXrPsTvwSSAOAsPA8-kipOhw&s",
         "price": 100,
-        "description": "This is a product description"
+        "description": "Batman action figure, meticulously designed to capture the iconic superhero's look with his signature black suit, cape, and utility belt"
     },
     {
         "id": 4,
-        "name": "Ambrance watch ",
+        "name": "Ambrance watch",
         "image": "https://suprememobiles.in/cdn/shop/products/Samsung-Watch-5-LTE-Now-Available.jpg?v=1702107237",
         "price": 100,
-        "description": "This is a product description"
+        "description": "The Ambrance Watch is a sleek, minimalist timepiece designed with elegance and simplicity in mind."
     },
     {
         "id": 5,
         "name": "Mens wear",
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8v9FyzQcZdgVlpWlgj2VNPdwmiodEBQ7oyg&s",
         "price": 100,
-        "description": "This is a product description"
+        "description": "levate your style with this classic men's red full-sleeve shirt, designed for a perfect fit and comfort. Made from high-quality, breathable fabric, it features a button-down front, crisp collar, and a tailored silhouette."
     },
     {
         "id": 6,
         "name": "Sofa",
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRQYzOi8CZx_PNcYlFHwl6GvCR5xQiEGUPDg&s",
         "price": 100,
-        "description": "This is a product description"
+        "description": "A sofa is a comfortable seating furniture piece typically designed for multiple people. It's often upholstered with fabric, leather, or synthetic materials and comes in various sizes, styles, and colors."
     },
     {
         "id": 7,
         "name": "Smart phone",
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYJv8RTsKmw9nmFVU9qwFHavX7VaxKJm11Wg&s",
         "price": 100,
-        "description": "This is a product description"
+        "description": "The iPhone 13 is a sleek and compact smartphone featuring a 6.1-inch Super Retina XDR display. It has a dual-camera system with 12MP wide and ultra-wide lenses, powered by the A15 Bionic chip for fast performance."
     }
   ]
   

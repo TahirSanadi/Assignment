@@ -6,7 +6,7 @@ const ProductList = ({ addToCart }) => {
     <div className="grid grid-cols-3 gap-4">
       {productsData.map((product) => (
         <div key={product.id} className="border p-4">
-          <img src={product.image} alt={product.name} className="w-full h-48 object-cover" />
+          <img src={product.image} alt={product.name} className="w-full h-48 object-contain" />
           <h2 className="text-xl font-bold">{product.name}</h2>
           <p>{product.description}</p>
           <p className="font-bold">${product.price}</p>
